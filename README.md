@@ -1,10 +1,11 @@
 # Game Programming
-Original Lua by: Colton Ogden (cogden@cs50.harvard.edu)
+Original Lua by: Colton Ogden (cogden@cs50.harvard.edu)<br>
 Adapted to JS by: Vikram Singh (vikram.singh@johnabbott.qc.ca
 
 List of all of my assignments
 
 ## [Pong](./0.%20Pong/)
+![Pong](./0.%20Pong/README/Pong.PNG)
 
 ## [Breakout](./1.%20Breakout/)
 
@@ -14,7 +15,7 @@ List of all of my assignments
 
 ## [Zelda](./4.%20Zelda/)
 
-## [Angry birds](./5.%20Angry%20Birds/)
+## [Angry Birds](./5.%20Angry%20Birds/)
 
 ## [Pokemon](./6.%20Pokemon/)
 
